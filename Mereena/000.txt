@@ -1,5 +1,5 @@
 Introduction GitHub.
 
-This course covers all the essentials for understanding GitHub.
+This course covers all the essentials for clear understanding GitHub.
 
 At the end of the course you will be a master in GitHub.
