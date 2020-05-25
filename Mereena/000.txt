@@ -1,4 +1,4 @@
-Introduction to GitHub class for everyone.
+Introduction to GitHub class for all.
 
 This course covers all the essentials for clear understanding GitHub.
 
